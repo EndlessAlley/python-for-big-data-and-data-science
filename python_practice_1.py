@@ -1,0 +1,1 @@
+print("Anfimov Vladyslav, KN-6")
